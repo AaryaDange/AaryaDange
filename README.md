@@ -20,7 +20,7 @@
   * VS Code
   * Eclipse
   ### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn][(https://www.linkedin.com/in/aarya-dange)](https://www.linkedin.com/in/%20aarya-dange-6272b7231)
 
 
 
