@@ -1,7 +1,8 @@
-#  <p align="center"> Hi there , I'm Aarya S Dange 👋!! </center> 
+#  <p align="center"> Hii there !! I'm Aarya S Dange 👋 </center> 
 ### <p align="center">  A passionate Full Stack Developer ....🚀
 🚀 Welcome to my coding adventure !! <br>
-📚 I'm an aspiring software developer, currently diving deep into the **PG-DAC** program at CDAC. Passionate about **coding**, **problem-solving**, and **learning new technologies.** 
+📚 I'm an aspiring software developer,Passionate about **coding**, **problem-solving**, and **learning new technologies.** <br>
+📝 I believe in writing clean, maintainable code and am always looking to improve my knowledge and grow as a developer. 
 ### 🛠️ Technologies & Tools
 + Languages:
   *   Java
@@ -21,8 +22,10 @@
   * Eclipse
   ### 📫 Connect with me:
 - [LinkedIn][(http://www.linkedin.com/in/aarya-dange-6272b7231)]
+- [email]aryadange25@gmail.com
+<br><br><br>
 
-
+>### <p align="center"> Made with ❤️
 
 
 
